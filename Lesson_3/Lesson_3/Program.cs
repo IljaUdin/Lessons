@@ -9,14 +9,21 @@ namespace Lesson_3
             double num_1, num_2;
             {
                 Console.Write("Введите значение числа 1 : ");
-                num_1 = Convert.ToDouble(Console.ReadLine());
+                while (!double.TryParse(Console.ReadLine(), out num_1))
+                {
+                    Console.Write("Ошибка ввода! Введите значение числа 1 : ");
+                }
 
                 Console.Write("Введите значение числа 2 : ");
-                num_2 = Convert.ToDouble(Console.ReadLine());
+                while (!double.TryParse(Console.ReadLine(), out num_2))
+                {
+                    Console.Write("Ошибка ввода! Введите значение числа 2 : ");
+                }
             }
+            Step:
             Console.Write("Выберите тип операции (+, -, *, /, %) : ");
             string type = Console.ReadLine();
-
+            
             switch (type)
             {
                 case "+":
@@ -29,10 +36,28 @@ namespace Lesson_3
                     Console.WriteLine($"Произведение чисел {num_1} и {num_2} равно {num_1 * num_2}");
                     break;
                 case "/":
+                    if (num_2 == 0)
+                    {
+                        Console.WriteLine("Деление на ноль!");
+                    }
+                    else
+                    { 
                     Console.WriteLine($"Отношение чисел {num_1} и {num_2} равно {num_1 / num_2}");
+                    }
                     break;
                 case "%":
+                    if (num_2 == 0)
+                    {
+                        Console.WriteLine("Деление на ноль!");
+                    }
+                    else
+                    {
                     Console.WriteLine($"Деление с остатком чисел {num_1} и {num_2} равно {num_1 % num_2}");
+                    }
+                    break;
+                default:
+                    Console.WriteLine("Неверный символ операции. Попробуйте еще раз");
+                    goto Step;
                     break;
             }
         }
@@ -44,7 +69,7 @@ namespace Lesson_3
 
                 Console.Write("Выполнить новый расчет? Y/N : ");
             }
-            while (Console.ReadLine() != "N");
+            while (Console.ReadLine().ToLower() != "n");
         }
     }
 }
