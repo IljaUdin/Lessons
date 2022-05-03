@@ -1,0 +1,16 @@
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\bin\Debug\net5.0\Lesson_4.exe
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\bin\Debug\net5.0\Lesson_4.deps.json
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\bin\Debug\net5.0\Lesson_4.runtimeconfig.json
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\bin\Debug\net5.0\Lesson_4.runtimeconfig.dev.json
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\bin\Debug\net5.0\Lesson_4.dll
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\bin\Debug\net5.0\ref\Lesson_4.dll
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\bin\Debug\net5.0\Lesson_4.pdb
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\obj\Debug\net5.0\Lesson_4.csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\obj\Debug\net5.0\Lesson_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\obj\Debug\net5.0\Lesson_4.AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\obj\Debug\net5.0\Lesson_4.AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\obj\Debug\net5.0\Lesson_4.csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\obj\Debug\net5.0\Lesson_4.dll
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\obj\Debug\net5.0\ref\Lesson_4.dll
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\obj\Debug\net5.0\Lesson_4.pdb
+D:\!Rubius\Lessons\Lesson_4\Lesson_4\obj\Debug\net5.0\Lesson_4.genruntimeconfig.cache

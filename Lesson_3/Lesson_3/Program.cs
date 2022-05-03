@@ -11,6 +11,11 @@ namespace Lesson_3
                 Console.Write("Введите значение числа 1 : ");
                 while (!double.TryParse(Console.ReadLine(), out num_1))
                 {
+                    if (num_1 == 3)
+                    {
+                        Console.WriteLine("!!!");
+                    }
+                    else
                     Console.Write("Ошибка ввода! Введите значение числа 1 : ");
                 }
 
