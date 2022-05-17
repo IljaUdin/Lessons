@@ -25,7 +25,7 @@ namespace Lesson_3
                     Console.Write("Ошибка ввода! Введите значение числа 2 : ");
                 }
             }
-            Step:
+            
             Console.Write("Выберите тип операции (+, -, *, /, %) : ");
             string type = Console.ReadLine();
             
@@ -62,7 +62,7 @@ namespace Lesson_3
                     break;
                 default:
                     Console.WriteLine("Неверный символ операции. Попробуйте еще раз");
-                    goto Step;
+                    
                     break;
             }
         }

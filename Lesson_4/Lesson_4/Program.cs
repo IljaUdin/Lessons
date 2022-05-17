@@ -2,13 +2,6 @@
 
 namespace Lesson_4
 {
-    class MyException : Exception
-    {
-        public void ErrorLenghtArray()
-        {
-            Console.WriteLine("Размер массива не может быть отрицательным!");
-        }
-    }
     class Program
     {
         static void CompareArray(int[] array)
@@ -38,12 +31,6 @@ namespace Lesson_4
                 lenght_array = int.Parse(Console.ReadLine());
                 if (lenght_array < 0)
                     throw new MyException();
-            }
-            catch (StackOverflowException ex)
-            {
-                Console.WriteLine(ex.Message);
-                Console.WriteLine(ex.Source);
-                Console.WriteLine(ex.StackTrace);
             }
             catch (MyException myException)
             {
@@ -76,12 +63,6 @@ namespace Lesson_4
                 }
             }
             catch (FormatException ex)
-            {
-                Console.WriteLine(ex.Message);
-                Console.WriteLine(ex.Source);
-                Console.WriteLine(ex.StackTrace);
-            }
-            catch (StackOverflowException ex)
             {
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.Source);
