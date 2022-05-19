@@ -1,0 +1,48 @@
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).exe
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).deps.json
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).runtimeconfig.json
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).runtimeconfig.dev.json
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).dll
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\ref\Lesson_6(2).dll
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).pdb
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).dll
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\ref\Lesson_6(2).dll
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).pdb
+D:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).genruntimeconfig.cache
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).exe
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).deps.json
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).runtimeconfig.json
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).runtimeconfig.dev.json
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).dll
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\ref\Lesson_6(2).dll
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).pdb
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).csproj.AssemblyReference.cache
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).GeneratedMSBuildEditorConfig.editorconfig
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).AssemblyInfoInputs.cache
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).AssemblyInfo.cs
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).csproj.CoreCompileInputs.cache
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).dll
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\ref\Lesson_6(2).dll
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).pdb
+E:\Вебинар 6 - 7\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).genruntimeconfig.cache
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).csproj.AssemblyReference.cache
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).GeneratedMSBuildEditorConfig.editorconfig
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).AssemblyInfoInputs.cache
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).AssemblyInfo.cs
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).csproj.CoreCompileInputs.cache
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).dll
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\ref\Lesson_6(2).dll
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).pdb
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).exe
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).deps.json
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).runtimeconfig.json
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).runtimeconfig.dev.json
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).dll
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\ref\Lesson_6(2).dll
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\bin\Debug\net5.0\Lesson_6(2).pdb
+E:\!Rubius\Lessons\Lesson_6\Lesson_6(2)\obj\Debug\net5.0\Lesson_6(2).genruntimeconfig.cache
