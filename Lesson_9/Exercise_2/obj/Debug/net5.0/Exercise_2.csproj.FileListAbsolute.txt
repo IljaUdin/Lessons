@@ -1,0 +1,16 @@
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\obj\Debug\net5.0\Exercise_2.csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\obj\Debug\net5.0\Exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\obj\Debug\net5.0\Exercise_2.AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\obj\Debug\net5.0\Exercise_2.AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\obj\Debug\net5.0\Exercise_2.csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\bin\Debug\net5.0\Exercise_2.exe
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\bin\Debug\net5.0\Exercise_2.deps.json
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\bin\Debug\net5.0\Exercise_2.runtimeconfig.json
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\bin\Debug\net5.0\Exercise_2.runtimeconfig.dev.json
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\bin\Debug\net5.0\Exercise_2.dll
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\bin\Debug\net5.0\ref\Exercise_2.dll
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\bin\Debug\net5.0\Exercise_2.pdb
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\obj\Debug\net5.0\Exercise_2.dll
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\obj\Debug\net5.0\ref\Exercise_2.dll
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\obj\Debug\net5.0\Exercise_2.pdb
+D:\!Rubius\Lessons\Lesson_9\Exercise_2\obj\Debug\net5.0\Exercise_2.genruntimeconfig.cache
