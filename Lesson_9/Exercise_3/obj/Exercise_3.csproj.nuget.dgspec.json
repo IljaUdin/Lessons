@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\!Rubius\\Lessons\\Lesson_9\\Exercise_3\\Exercise_3.csproj",
         "projectName": "Exercise_3",
         "projectPath": "D:\\!Rubius\\Lessons\\Lesson_9\\Exercise_3\\Exercise_3.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "D:\\!Rubius\\Lessons\\Lesson_9\\Exercise_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

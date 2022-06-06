@@ -17,33 +17,30 @@ namespace Exercise_3
 
             if (pingNumber > pongNumber)
             {
-                for (int i = 0; i < pongNumber;)
+                for (int i = 0; i < pongNumber; i++)
                 {
                     ping.HitPing();
                     pong.HitPong();
-                    i++;
                 }
                 pong.lossPong();
                 
             }
             else if (pingNumber < pongNumber)
             {
-                for (int i = 0; i < pingNumber;)
+                for (int i = 0; i < pingNumber; i++)
                 {
                     ping.HitPing();
                     pong.HitPong();
-                    i++;
                 }
                 ping.HitPing();
                 ping.lossPing();
             }
             else
             {
-                for (int i = 0; i < pingNumber;)
+                for (int i = 0; i < pingNumber; i++)
                 {
                     ping.HitPing();
                     pong.HitPong();
-                    i++;
                 }
                 Console.WriteLine("Ничья");
             }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vchz64z/UyvgzBKIe0gwSd8HwMIrpd010BDQFeq2lwO8dI4pKC+GtWRNX/0ZNMkg7vtwWxyxhFdf5EwrnKhdyA==",
+  "success": true,
+  "projectFilePath": "D:\\!Rubius\\Lessons\\Lesson_12\\Exercise_1\\Exercise_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
