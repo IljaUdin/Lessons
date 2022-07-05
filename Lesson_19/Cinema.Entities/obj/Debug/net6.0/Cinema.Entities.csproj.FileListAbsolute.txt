@@ -1,0 +1,50 @@
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\bin\Debug\net6.0\Cinema.Entities.deps.json
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\bin\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\bin\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\obj\Debug\net6.0\refint\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19\Lesson18.Entities\obj\Debug\net6.0\ref\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\bin\Debug\net6.0\Cinema.Entities.deps.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\bin\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\bin\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\obj\Debug\net6.0\refint\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\obj\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18.Entities\obj\Debug\net6.0\ref\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\bin\Debug\net6.0\Cinema.Entities.deps.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\bin\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\bin\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\obj\Debug\net6.0\refint\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema.Entities\obj\Debug\net6.0\ref\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\bin\Debug\net6.0\Cinema.Entities.deps.json
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\bin\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\bin\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\obj\Debug\net6.0\refint\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\obj\Debug\net6.0\ref\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\bin\Debug\net6.0\Cinema.Entities.runtimeconfig.json
+D:\!Rubius\Lessons\Lesson_19\Cinema.Entities\obj\Debug\net6.0\Cinema.Entities.genruntimeconfig.cache

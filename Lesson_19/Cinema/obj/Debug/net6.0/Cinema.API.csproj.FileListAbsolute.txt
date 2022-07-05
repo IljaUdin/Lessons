@@ -1,0 +1,189 @@
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\appsettings.Development.json
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\appsettings.json
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.API.staticwebassets.runtime.json
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.API.exe
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.API.deps.json
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.API.runtimeconfig.json
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.API.pdb
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\AutoMapper.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Humanizer.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Npgsql.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.DB.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.Services.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.DB.pdb
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.Services.pdb
+D:\!Rubius\Lessons\Lesson_19\Lesson18\bin\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.MvcApplicationPartsAssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.MvcApplicationPartsAssemblyInfo.cache
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.RazorAssemblyInfo.cache
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.RazorAssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\staticwebassets.build.json
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\staticwebassets.development.json
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\scopedcss\bundle\Cinema.API.styles.css
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.API.bundle.scp.css
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.csproj.CopyComplete
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\refint\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.pdb
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\Cinema.API.genruntimeconfig.cache
+D:\!Rubius\Lessons\Lesson_19\Lesson18\obj\Debug\net6.0\ref\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\refint\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\appsettings.Development.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\appsettings.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.API.staticwebassets.runtime.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.API.exe
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.API.deps.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.API.runtimeconfig.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.API.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\AutoMapper.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Humanizer.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Npgsql.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.DB.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.Services.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.DB.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.Services.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\bin\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.MvcApplicationPartsAssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.MvcApplicationPartsAssemblyInfo.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.RazorAssemblyInfo.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.RazorAssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\staticwebassets.build.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\staticwebassets.development.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\scopedcss\bundle\Cinema.API.styles.css
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.API.bundle.scp.css
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.csproj.CopyComplete
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\Cinema.API.genruntimeconfig.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Lesson18\obj\Debug\net6.0\ref\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\appsettings.Development.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\appsettings.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.API.staticwebassets.runtime.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.API.exe
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.API.deps.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.API.runtimeconfig.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.API.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\AutoMapper.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Humanizer.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Npgsql.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.DB.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.Services.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.DB.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.Services.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\bin\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.MvcApplicationPartsAssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.MvcApplicationPartsAssemblyInfo.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.RazorAssemblyInfo.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.RazorAssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\staticwebassets.build.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\staticwebassets.development.json
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\scopedcss\bundle\Cinema.API.styles.css
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.API.bundle.scp.css
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.csproj.CopyComplete
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\refint\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.pdb
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\Cinema.API.genruntimeconfig.cache
+D:\!Rubius\Lessons\Lesson_19 — копия\Cinema\obj\Debug\net6.0\ref\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\appsettings.Development.json
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\appsettings.json
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.API.staticwebassets.runtime.json
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.API.exe
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.API.deps.json
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.API.runtimeconfig.json
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.API.pdb
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\AutoMapper.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Humanizer.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Npgsql.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.DB.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.Entities.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.Services.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.DB.pdb
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.Services.pdb
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Cinema.Entities.pdb
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.csproj.AssemblyReference.cache
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.AssemblyInfoInputs.cache
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.AssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.csproj.CoreCompileInputs.cache
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.MvcApplicationPartsAssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.MvcApplicationPartsAssemblyInfo.cache
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.RazorAssemblyInfo.cache
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.RazorAssemblyInfo.cs
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\staticwebassets.build.json
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\staticwebassets.development.json
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\scopedcss\bundle\Cinema.API.styles.css
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.API.bundle.scp.css
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.csproj.CopyComplete
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\refint\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.pdb
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\Cinema.API.genruntimeconfig.cache
+D:\!Rubius\Lessons\Lesson_19\Cinema\obj\Debug\net6.0\ref\Cinema.API.dll
+D:\!Rubius\Lessons\Lesson_19\Cinema\bin\Debug\net6.0\Newtonsoft.Json.dll

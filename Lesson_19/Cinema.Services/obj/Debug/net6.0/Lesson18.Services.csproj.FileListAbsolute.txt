@@ -1,0 +1,17 @@
+D:\!Rubius\Vebinar_18\Lesson18.Services\bin\Debug\net6.0\Lesson18.Services.deps.json
+D:\!Rubius\Vebinar_18\Lesson18.Services\bin\Debug\net6.0\Lesson18.Services.dll
+D:\!Rubius\Vebinar_18\Lesson18.Services\bin\Debug\net6.0\Lesson18.Services.pdb
+D:\!Rubius\Vebinar_18\Lesson18.Services\bin\Debug\net6.0\Lesson18.DB.dll
+D:\!Rubius\Vebinar_18\Lesson18.Services\bin\Debug\net6.0\Lesson18.Entities.dll
+D:\!Rubius\Vebinar_18\Lesson18.Services\bin\Debug\net6.0\Lesson18.DB.pdb
+D:\!Rubius\Vebinar_18\Lesson18.Services\bin\Debug\net6.0\Lesson18.Entities.pdb
+D:\!Rubius\Vebinar_18\Lesson18.Services\obj\Debug\net6.0\Lesson18.Services.csproj.AssemblyReference.cache
+D:\!Rubius\Vebinar_18\Lesson18.Services\obj\Debug\net6.0\Lesson18.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Rubius\Vebinar_18\Lesson18.Services\obj\Debug\net6.0\Lesson18.Services.AssemblyInfoInputs.cache
+D:\!Rubius\Vebinar_18\Lesson18.Services\obj\Debug\net6.0\Lesson18.Services.AssemblyInfo.cs
+D:\!Rubius\Vebinar_18\Lesson18.Services\obj\Debug\net6.0\Lesson18.Services.csproj.CoreCompileInputs.cache
+D:\!Rubius\Vebinar_18\Lesson18.Services\obj\Debug\net6.0\Lesson18.Services.csproj.CopyComplete
+D:\!Rubius\Vebinar_18\Lesson18.Services\obj\Debug\net6.0\Lesson18.Services.dll
+D:\!Rubius\Vebinar_18\Lesson18.Services\obj\Debug\net6.0\refint\Lesson18.Services.dll
+D:\!Rubius\Vebinar_18\Lesson18.Services\obj\Debug\net6.0\Lesson18.Services.pdb
+D:\!Rubius\Vebinar_18\Lesson18.Services\obj\Debug\net6.0\ref\Lesson18.Services.dll
